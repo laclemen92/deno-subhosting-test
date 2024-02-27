@@ -1,0 +1,6 @@
+.env
+
+# Ignore ide junk
+.DS_Store
+.idea
+.vscode
